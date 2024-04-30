@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@angular/animations": "^17.3.6",
+    "@popperjs/core": "^2.11.8",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
+  }
+}
